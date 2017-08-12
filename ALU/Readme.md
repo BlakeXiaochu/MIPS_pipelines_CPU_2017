@@ -1,1 +1,1 @@
-ALU model
+ALU moduel
