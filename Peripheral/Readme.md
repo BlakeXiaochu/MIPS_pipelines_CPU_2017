@@ -1,1 +1,1 @@
-Peripheral module and relative submodule
+Peripheral module and relative submodules
